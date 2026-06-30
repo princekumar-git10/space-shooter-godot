@@ -6,12 +6,6 @@ This is my **first game development project**, created after learning Godot Engi
 
 ---
 
-## 🎮 Gameplay
-
-![Gameplay](gameplay.gif)
-
----
-
 ## ✨ Features
 
 - 🚀 Smooth player movement
@@ -112,7 +106,9 @@ The project was built by implementing, testing, and understanding each feature r
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1280" height="832" alt="Screenshot 2026-06-30 at 4 37 54 PM" src="https://github.com/user-attachments/assets/47c7262a-1058-4729-9c18-a6a1efcbbb09" />
+
+<img width="1280" height="832" alt="Screenshot 2026-06-30 at 4 37 48 PM" src="https://github.com/user-attachments/assets/5aa524d3-568c-4ab7-814f-16e9f4ea10e1" />
 
 ---
 
@@ -129,7 +125,7 @@ This project marks the beginning of my game development journey.
 **Prince Kumar**
 
 - GitHub: https://github.com/princekumar-git10
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/prince-kumar-981a19364/
 
 ---
 
